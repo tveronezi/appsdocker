@@ -43,6 +43,9 @@
                     <config>/opt/run/tomeeconfig</config>
                     <args>${tomee.args}</args>
                     <tomeeClassifier>plus</tomeeClassifier>
+                    <libs>
+                        <lib>mysql:mysql-connector-java:5.1.34</lib>
+                    </libs>
                     <webapps>
                         <webapp>buildnplay:jchat:1.1-SNAPSHOT?name=jchat</webapp>
                     </webapps>
