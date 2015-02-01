@@ -20,7 +20,7 @@
 <tomee>
     <Resource id="MySQL Database" type="DataSource">
         JdbcDriver com.mysql.jdbc.Driver
-        JdbcUrl jdbc:mysql://jchatdb:3306/jchatdb
+        JdbcUrl jdbc:mysql://springchatdb:3306/springchatdb
         UserName test
         Password test
     </Resource>

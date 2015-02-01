@@ -7,5 +7,5 @@ docker run -d --name=jchatdb \
   -e MYSQL_USER=test \
   -e MYSQL_PASSWORD=test \
   -e MYSQL_PASSWORD=test \
-  -e MYSQL_DATABASE=chat \
+  -e MYSQL_DATABASE=jchatdb \
   jchatdb
