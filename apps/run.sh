@@ -9,4 +9,5 @@ cd jchatdb && ./run.sh && cd ..
 cd jchat && ./run.sh && cd ..
 cd springchatdb && ./run.sh && cd ..
 cd springchat && ./run.sh && cd ..
+cd boxdata && ./run.sh && cd ..
 cd proxy && ./run.sh && cd ..
