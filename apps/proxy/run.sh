@@ -8,4 +8,5 @@ docker run -d -p 80:80 -p 8000:8000 \
   --link=springchat:springchat \
   --link=activemq:activemq \
   --link=boxdata:boxdata \
+  --link=msglnk:msglnk \
   --name=proxy proxy
