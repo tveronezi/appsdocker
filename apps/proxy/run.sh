@@ -9,4 +9,5 @@ docker run -d -p 80:80 -p 8000:8000 \
   --link=activemq:activemq \
   --link=boxdata:boxdata \
   --link=msglnk:msglnk \
+  --link=faceid:faceid \
   --name=proxy proxy

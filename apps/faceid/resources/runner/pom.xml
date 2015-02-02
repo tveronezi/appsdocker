@@ -44,7 +44,7 @@
                     <args>${tomee.args}</args>
                     <tomeeClassifier>plus</tomeeClassifier>
                     <webapps>
-                        <webapp>buildnplay:msglnk:1.1-SNAPSHOT?name=msglnk</webapp>
+                        <webapp>buildnplay:faceid:1.1-SNAPSHOT?name=faceid</webapp>
                     </webapps>
                 </configuration>
             </plugin>
